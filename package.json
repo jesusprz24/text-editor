@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.22",
     "webpack-pwa-manifest": "^4.3.0"
   }
 }
